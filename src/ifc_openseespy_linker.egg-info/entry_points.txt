@@ -1,0 +1,2 @@
+[console_scripts]
+ifc2opensees = ifc_openseespy_linker.cli:main

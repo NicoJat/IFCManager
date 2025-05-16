@@ -1,0 +1,17 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/ifc_openseespy_linker/__init__.py
+src/ifc_openseespy_linker.egg-info/PKG-INFO
+src/ifc_openseespy_linker.egg-info/SOURCES.txt
+src/ifc_openseespy_linker.egg-info/dependency_links.txt
+src/ifc_openseespy_linker.egg-info/entry_points.txt
+src/ifc_openseespy_linker.egg-info/requires.txt
+src/ifc_openseespy_linker.egg-info/top_level.txt
+src/ifc_openseespy_linker/core/__init__.py
+src/ifc_openseespy_linker/core/ifc_parser.py
+src/ifc_openseespy_linker/core/opensees_converter.py
+src/ifc_openseespy_linker/core/visualization.py
+src/ifc_openseespy_linker/utils/__init__.py
+src/ifc_openseespy_linker/utils/geometry_utils.py
