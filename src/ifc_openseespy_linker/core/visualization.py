@@ -54,7 +54,6 @@ class ModelVisualizer:
             scene=dict(xaxis_title='X', yaxis_title='Y', zaxis_title='Z'),
             title='IFC Structural Model'
         )
-        fig.show()
         return fig
     
     def visualize_results(self, structural_elements, results, result_type='displacements', scale_factor=10):
