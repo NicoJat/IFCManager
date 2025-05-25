@@ -26,7 +26,7 @@ setup(
     description="Herramienta especializada para la carga, el análisis y la visualización de modelos AEC a partir de archivos IFC",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/ifc-aec-tool",
+    url="https://github.com/NicoJat/IFCManager.git",
     license="MIT",
 
     classifiers=[
