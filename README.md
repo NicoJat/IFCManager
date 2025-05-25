@@ -1,6 +1,6 @@
-# IFC-AEC-Tool
+# IFCManager
 
-The IFC-AEC-Tool is an open-source Python tool designed to load, analyze, and visualize Architecture, Engineering, and Construction (AEC) models from IFC files. It enables engineers, architects, and researchers to process structural and non-structural elements, extract geometric data, and generate interactive 3D visualizations using Plotly.
+The IFCManager is an open-source Python tool designed to load, analyze, and visualize Architecture, Engineering, and Construction (AEC) models from IFC files. It enables engineers, architects, and researchers to process structural and non-structural elements, extract geometric data, and generate interactive 3D visualizations using Plotly.
 
 ## Key Features
 - Extracts structural and non-structural elements (beams, columns, slabs, walls, etc.) from IFC files.
@@ -13,12 +13,12 @@ Since this module is not hosted on PyPI, you need to clone the repository and in
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ifc-aec-tool.git
+   git clone https://github.com/NicoJat/IFCManager.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd ifc-aec-tool
+   cd IFCManager
    ```
 
 3. Install the module and its dependencies:
@@ -44,4 +44,4 @@ Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for details on
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-Nicolás Játiva - [nicolas.jativa12@gmail.com](mailto:estructurasnj@gmail.com)
+Nicolás Játiva - [estructurasnj@gmail.com](mailto:estructurasnj@gmail.com)

@@ -19,10 +19,10 @@ DEV_REQUIRES = [
 ]
 
 setup(
-    name="ifc-aec-tool",
+    name="IFCManager",
     version="0.1.0",
     author="Nicolás Játiva",
-    author_email="nicolas.jativa12@gmail.com",
+    author_email="esrtucturasnj@gmail.com",
     description="Herramienta especializada para la carga, el análisis y la visualización de modelos AEC a partir de archivos IFC",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
@@ -47,7 +47,7 @@ setup(
 
     entry_points={
         "console_scripts": [
-            "ifc-aec-tool=ifc_aec_tool.cli:main",  # Asegúrate de que ifc_aec_tool/cli.py exista y tenga main()
+            "ifcmanager=IFCManager.cli:main", 
         ],
     },
 )
