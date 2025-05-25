@@ -1,5 +1,14 @@
 from setuptools import setup, find_packages
 
+# Dependencias requeridas
+REQUIRED = [
+    "numpy>=1.21.0",
+    "pandas>=1.3.0",
+    "matplotlib>=3.4.0",
+    "plotly>=5.0.0",
+    "ifcopenshell>=0.7.0"
+]
+
 # Dependencias de desarrollo (opcionales)
 DEV_REQUIRES = [
     "pytest>=6.2.5",
@@ -10,18 +19,16 @@ DEV_REQUIRES = [
 ]
 
 setup(
-    # Metadatos básicos (tuyos y del proyecto)
-    name="ifc-openseespy-linker",
+    name="ifc-aec-tool",
     version="0.1.0",
     author="Nicolás Játiva",
     author_email="nicolas.jativa12@gmail.com",
-    description="Convierte modelos BIM (IFC) a modelos de análisis estructural para OpenSeesPy",
+    description="Herramienta especializada para la carga, el análisis y la visualización de modelos AEC a partir de archivos IFC",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/tuusuario/ifc-openseespy-linker",
+    url="https://github.com/yourusername/ifc-aec-tool",
     license="MIT",
-    
-    # Clasificadores (opciones en: https://pypi.org/classifiers/)
+
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Science/Research",
@@ -29,22 +36,18 @@ setup(
         "Programming Language :: Python :: 3",
         "Topic :: Scientific/Engineering :: Physics",
     ],
-    
-    # Estructura del paquete
+
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     python_requires=">=3.7",
-    
-    # Dependencias
+    install_requires=REQUIRED,
     extras_require={
         "dev": DEV_REQUIRES,
-        # Puedes añadir más grupos: docs, test, etc.
     },
-    
-    # Opcional: Scripts de consola
+
     entry_points={
         "console_scripts": [
-            "ifc2opensees=ifc_openseespy_linker.cli:main",
+            "ifc-aec-tool=ifc_aec_tool.cli:main",  # Asegúrate de que ifc_aec_tool/cli.py exista y tenga main()
         ],
     },
 )
