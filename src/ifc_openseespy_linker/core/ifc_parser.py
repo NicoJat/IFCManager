@@ -443,3 +443,57 @@ class IFCParser:
         """
         return {elem_id: elem for elem_id, elem in self.structural_elements.items() 
                 if elem['type'] == element_type}
+    
+    
+    def calculate_element_properties(self):
+        for element_id, element_data in self.structural_elements.items():
+            if 'geometry' in element_data:
+                geom = element_data['geometry']
+                if geom['type'] == 'esh':
+                    # Calcula el volumen y área del elemento
+                    vertices = np.array(geom['vertices'])
+                    triangles = np.array(geom['triangles'])
+                    volume = self.calculate_mesh_volume(vertices, triangles)
+                    area = self.calculate_mesh_area(vertices, triangles)
+                    element_data['volume'] = volume
+                    element_data['area'] = area
+                elif geom['type'] == 'line':
+                    # Calcula el volumen y área del elemento lineal
+                    start = geom['start']
+                    end = geom['end']
+                    length = np.linalg.norm(np.array(end) - np.array(start))
+                    area = self.calculate_line_area(length, element_data['profile'])
+                    volume = self.calculate_line_volume(length, element_data['profile'])
+                    element_data['volume'] = volume
+                    element_data['area'] = area
+
+    def calculate_mesh_volume(self, vertices, triangles):
+        # Implementa el cálculo del volumen de un mesh
+        #...
+        pass
+
+    def calculate_mesh_area(self, vertices, triangles):
+        # Implementa el cálculo del área de un mesh
+        #...
+        pass
+
+    def calculate_line_area(self, length, profile):
+        # Implementa el cálculo del área de un elemento lineal
+        #...
+        pass
+
+    def calculate_line_volume(self, length, profile):
+        # Implementa el cálculo del volumen de un elemento lineal
+        #...
+        pass
+
+    def count_properties_by_material(self):
+        material_properties = {}
+        for element_id, element_data in self.structural_elements.items():
+            if 'aterial' in element_data:
+                material_name = list(element_data['material'].keys())[0]
+                if material_name not in material_properties:
+                    material_properties[material_name] = {'volume': 0, 'area': 0}
+                material_properties[material_name]['volume'] += element_data.get('volume', 0)
+                material_properties[material_name]['area'] += element_data.get('area', 0)
+        return material_properties

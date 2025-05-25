@@ -10,7 +10,6 @@ __author__ = "Your Name"
 
 # src/ifc_openseespy_linker/core/__init__.py
 from .ifc_parser import IFCParser
-from .opensees_converter import OpenSeesConverter
 from .visualization import ModelVisualizer
 
 # Convenience class that integrates all components
@@ -58,19 +57,7 @@ class IFCtoOpenSeesConverter:
         self.structural_elements = self.parser.extract_structural_elements()
         self.parser.extract_geometry()
         
-        # Initialize converter with extracted elements
-        self.converter = OpenSeesConverter(self.structural_elements)
-        
         return self.structural_elements
-    
-    def create_opensees_model(self):
-        """Create an OpenSees model from the extracted structural elements."""
-        if not self.converter:
-            if not self.structural_elements:
-                raise ValueError("No structural elements extracted. Call extract_structural_elements() first.")
-            self.converter = OpenSeesConverter(self.structural_elements)
-        
-        return self.converter.create_model()
     
     def run_analysis(self, analysis_type="static"):
         """Run structural analysis on the created OpenSees model."""

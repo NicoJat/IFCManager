@@ -1,0 +1,3810 @@
+{
+  "1YMpECnoXAAgd3TsblgkRb": {
+    "global_id": "1YMpECnoXAAgd3TsblgkRb",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:416913",
+    "type": "IfcBeam",
+    "tag": "416913",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Span": 5570.000000000003,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000003,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000012796,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.720000000005508,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.870000000005764,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.87000000000568,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.39000000000066565,
+      "Qto_BeamBaseQuantities.NetVolume": 0.3900000000006783
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "1YMpECnoXAAgd3TsblgkRl": {
+    "global_id": "1YMpECnoXAAgd3TsblgkRl",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:416923",
+    "type": "IfcBeam",
+    "tag": "416923",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000012813,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.720000000005532,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.870000000005788,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.870000000005677,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.39000000000066637,
+      "Qto_BeamBaseQuantities.NetVolume": 0.3900000000006782
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMFt": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMFt",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:418561",
+    "type": "IfcBeam",
+    "tag": "418561",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07499999999999916,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.63750000000014,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.787500000000138,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.787500000000044,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.3843749999999954,
+      "Qto_BeamBaseQuantities.NetVolume": 0.3843750000000067
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMFR": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMFR",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:418605",
+    "type": "IfcBeam",
+    "tag": "418605",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 4950.000017136324,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 4950.000017136324,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000000143,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.9775000188500025,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.1275000188500055,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.127500018850002,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.33937500128523085,
+      "Qto_BeamBaseQuantities.NetVolume": 0.33937500128523057
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMEd": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMEd",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:418641",
+    "type": "IfcBeam",
+    "tag": "418641",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 2604.99998286367,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 2604.99998286367,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000000163,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 2.3979999811500625,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 2.547999981150066,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 2.5479999811500638,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.1634999987147789,
+      "Qto_BeamBaseQuantities.NetVolume": 0.16349999871477836
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMHi": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMHi",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:418970",
+    "type": "IfcBeam",
+    "tag": "418970",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 4950.000017136321,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 4950.000017136321,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000000147,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.977500018850006,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.127500018850009,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.127500018850008,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.33937500128523085,
+      "Qto_BeamBaseQuantities.NetVolume": 0.3393750012852311
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMH9": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMH9",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:419007",
+    "type": "IfcBeam",
+    "tag": "419007",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 2604.99998286367,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 2604.99998286367,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000000155,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 2.425499981150064,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 2.575499981150067,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 2.5754999811500636,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.1653749987147787,
+      "Qto_BeamBaseQuantities.NetVolume": 0.1653749987147787
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMNR": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMNR",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:419117",
+    "type": "IfcBeam",
+    "tag": "419117",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000003,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000003,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000012796,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.720000000005506,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.870000000005762,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.870000000005681,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.3900000000006657,
+      "Qto_BeamBaseQuantities.NetVolume": 0.39000000000067836
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMNP": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMNP",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:419119",
+    "type": "IfcBeam",
+    "tag": "419119",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000012813,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.720000000005535,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.870000000005791,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.870000000005682,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.3900000000006665,
+      "Qto_BeamBaseQuantities.NetVolume": 0.3900000000006783
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMNE": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMNE",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:419128",
+    "type": "IfcBeam",
+    "tag": "419128",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07499999999999914,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.665000000000147,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.815000000000145,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.815000000000055,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.38624999999999565,
+      "Qto_BeamBaseQuantities.NetVolume": 0.38625000000000714
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMMs": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMMs",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:419136",
+    "type": "IfcBeam",
+    "tag": "419136",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 4950.000017136321,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 4950.000017136321,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000000122,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.977500018849995,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.1275000188499975,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.127500018849992,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.33937500128522985,
+      "Qto_BeamBaseQuantities.NetVolume": 0.33937500128522946
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMMq": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMMq",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:419138",
+    "type": "IfcBeam",
+    "tag": "419138",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 2604.99998286367,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 2604.99998286367,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000000122,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 2.4254999811500566,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 2.575499981150059,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 2.5754999811500583,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.16537499871477798,
+      "Qto_BeamBaseQuantities.NetVolume": 0.16537499871477793
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMMR": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMMR",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:419181",
+    "type": "IfcBeam",
+    "tag": "419181",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000003,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000003,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 3.3956865861665952,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 6.7913731723331905,
+      "Qto_BeamBaseQuantities.NetVolume": 0.40113210966983825
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {},
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMMP": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMMP",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:419183",
+    "type": "IfcBeam",
+    "tag": "419183",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000012796,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.7200000000055296,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.870000000005786,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.870000000005682,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.39000000000066565,
+      "Qto_BeamBaseQuantities.NetVolume": 0.3900000000006783
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMM0": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMM0",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:419190",
+    "type": "IfcBeam",
+    "tag": "419190",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07499999999999916,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.632000000000151,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.782000000000149,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 6.0395000000000545,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.3839999999999961,
+      "Qto_BeamBaseQuantities.NetVolume": 0.3846250000000071
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMM8": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMM8",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:419198",
+    "type": "IfcBeam",
+    "tag": "419198",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 4950.000017136321,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 4950.000017136321,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 3.507625012796542,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 7.015250025593084,
+      "Qto_BeamBaseQuantities.NetVolume": 0.34408750115965125
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {},
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMLs": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMLs",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:419200",
+    "type": "IfcBeam",
+    "tag": "419200",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 2604.99998286367,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 2604.99998286367,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 1.7676249870920406,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 3.5352499741840813,
+      "Qto_BeamBaseQuantities.NetVolume": 0.16776749862749551
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {},
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4Q": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4Q",
+    "name": "M_Concrete-Rectangular Beam:200x200:419918",
+    "type": "IfcBeam",
+    "tag": "419918",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 5570.000000000003,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000003,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.04000000000000395,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.160000000000041,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 4.240000000000049,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 4.240000000000036,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.20800000000002064,
+      "Qto_BeamBaseQuantities.NetVolume": 0.20800000000000346
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z44": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z44",
+    "name": "M_Concrete-Rectangular Beam:200x200:419920",
+    "type": "IfcBeam",
+    "tag": "419920",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.04000000000000438,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.160000000000039,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 4.240000000000048,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 4.240000000000035,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.2080000000000228,
+      "Qto_BeamBaseQuantities.NetVolume": 0.2080000000000034
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z43": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z43",
+    "name": "M_Concrete-Rectangular Beam:200x200:419927",
+    "type": "IfcBeam",
+    "tag": "419927",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.040000000000003956,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.100000000000029,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 4.180000000000037,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 4.180000000000028,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.20500000000002003,
+      "Qto_BeamBaseQuantities.NetVolume": 0.20500000000000307
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4D": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4D",
+    "name": "M_Concrete-Rectangular Beam:200x200:419929",
+    "type": "IfcBeam",
+    "tag": "419929",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 4950.000017136324,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 4950.000017136324,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.04000000000000064,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 3.6200000137090913,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 3.7000000137090927,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 3.7000000137090887,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.18100000068545588,
+      "Qto_BeamBaseQuantities.NetVolume": 0.18100000068545585
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4F": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4F",
+    "name": "M_Concrete-Rectangular Beam:200x200:419931",
+    "type": "IfcBeam",
+    "tag": "419931",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 2604.99998286367,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 2604.99998286367,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.04000000000000064,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 1.743999986290951,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 1.8239999862909522,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 1.8239999862909513,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.0871999993145482,
+      "Qto_BeamBaseQuantities.NetVolume": 0.08719999931454823
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z49": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z49",
+    "name": "M_Concrete-Rectangular Beam:200x200:419933",
+    "type": "IfcBeam",
+    "tag": "419933",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 4950.000017136321,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 4950.000017136321,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.04000000000000075,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 3.620000013709092,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 3.7000000137090936,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 3.7000000137090887,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.18100000068545632,
+      "Qto_BeamBaseQuantities.NetVolume": 0.1810000006854558
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4B": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4B",
+    "name": "M_Concrete-Rectangular Beam:200x200:419935",
+    "type": "IfcBeam",
+    "tag": "419935",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 2604.99998286367,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 2604.99998286367,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.04000000000000075,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 1.7639999862909526,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 1.843999986290954,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 1.843999986290951,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.08819999931454846,
+      "Qto_BeamBaseQuantities.NetVolume": 0.08819999931454821
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4n": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4n",
+    "name": "M_Concrete-Rectangular Beam:200x200:419941",
+    "type": "IfcBeam",
+    "tag": "419941",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 5570.000000000003,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000003,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.04000000000000395,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.160000000000041,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 4.240000000000049,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 4.240000000000038,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.20800000000002064,
+      "Qto_BeamBaseQuantities.NetVolume": 0.20800000000000346
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4p": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4p",
+    "name": "M_Concrete-Rectangular Beam:200x200:419943",
+    "type": "IfcBeam",
+    "tag": "419943",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.04000000000000438,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.160000000000041,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 4.24000000000005,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 4.240000000000037,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.2080000000000229,
+      "Qto_BeamBaseQuantities.NetVolume": 0.2080000000000034
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4$": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4$",
+    "name": "M_Concrete-Rectangular Beam:200x200:419947",
+    "type": "IfcBeam",
+    "tag": "419947",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.040000000000003984,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.120000000000034,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 4.200000000000042,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 4.200000000000035,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.20600000000002056,
+      "Qto_BeamBaseQuantities.NetVolume": 0.20600000000000337
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4v": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4v",
+    "name": "M_Concrete-Rectangular Beam:200x200:419949",
+    "type": "IfcBeam",
+    "tag": "419949",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 4950.000017136321,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 4950.000017136321,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.040000000000000646,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 3.620000013709087,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 3.7000000137090883,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 3.700000013709088,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.18100000068545583,
+      "Qto_BeamBaseQuantities.NetVolume": 0.1810000006854558
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4x": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4x",
+    "name": "M_Concrete-Rectangular Beam:200x200:419951",
+    "type": "IfcBeam",
+    "tag": "419951",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 2604.99998286367,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 2604.99998286367,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.04000000000000064,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 1.763999986290955,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 1.8439999862909562,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 1.8439999862909515,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.08819999931454821,
+      "Qto_BeamBaseQuantities.NetVolume": 0.08819999931454821
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4X": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4X",
+    "name": "M_Concrete-Rectangular Beam:200x200:419957",
+    "type": "IfcBeam",
+    "tag": "419957",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 5570.000000000003,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000003,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.040000000000003894,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.160000000000036,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 4.240000000000044,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 4.2400000000000375,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.20800000000002036,
+      "Qto_BeamBaseQuantities.NetVolume": 0.20800000000000346
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4Z": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4Z",
+    "name": "M_Concrete-Rectangular Beam:200x200:419959",
+    "type": "IfcBeam",
+    "tag": "419959",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.04000000000000438,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.160000000000041,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 4.24000000000005,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 4.2400000000000375,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.2080000000000229,
+      "Qto_BeamBaseQuantities.NetVolume": 0.2080000000000035
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4l": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4l",
+    "name": "M_Concrete-Rectangular Beam:200x200:419963",
+    "type": "IfcBeam",
+    "tag": "419963",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.04000000000000395,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.0960000000000365,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 4.176000000000045,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 4.176000000000037,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.2048000000000204,
+      "Qto_BeamBaseQuantities.NetVolume": 0.20480000000000348
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4f": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4f",
+    "name": "M_Concrete-Rectangular Beam:200x200:419965",
+    "type": "IfcBeam",
+    "tag": "419965",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 4950.000017136321,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 4950.000017136321,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.040000000000000854,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 3.6200000137091157,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 3.7000000137091176,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 3.700000013709098,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.18100000068545677,
+      "Qto_BeamBaseQuantities.NetVolume": 0.1810000006854568
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z4h": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z4h",
+    "name": "M_Concrete-Rectangular Beam:200x200:419967",
+    "type": "IfcBeam",
+    "tag": "419967",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRmf",
+      "storey_name": "Level 0",
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Reference": "200x200",
+      "Pset_BeamCommon.Span": 2604.99998286367,
+      "Pset_EnvironmentalImpactIndicators.Reference": "200x200",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "200x200",
+      "Qto_BeamBaseQuantities.Length": 2604.99998286367,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.04000000000000086,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 1.7639999862909552,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 1.8439999862909568,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 1.843999986290957,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.08819999931454872,
+      "Qto_BeamBaseQuantities.NetVolume": 0.08819999931454871
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "200x200"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1D": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1D",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420121",
+    "type": "IfcBeam",
+    "tag": "420121",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000003,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000003,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000012812,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.720000000005514,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.87000000000577,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.870000000005687,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.3900000000006665,
+      "Qto_BeamBaseQuantities.NetVolume": 0.39000000000067897
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1F": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1F",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420123",
+    "type": "IfcBeam",
+    "tag": "420123",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000012827,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.720000000005538,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.870000000005795,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.8700000000056844,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.390000000000667,
+      "Qto_BeamBaseQuantities.NetVolume": 0.3900000000006789
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1s": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1s",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420130",
+    "type": "IfcBeam",
+    "tag": "420130",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07499999999999929,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.637500000000144,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.787500000000143,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.787500000000051,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.384374999999996,
+      "Qto_BeamBaseQuantities.NetVolume": 0.38437500000000735
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1m": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1m",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420132",
+    "type": "IfcBeam",
+    "tag": "420132",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 4950.000017136324,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 4950.000017136324,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000000155,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.977500018850008,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.127500018850011,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.127500018850007,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.3393750012852314,
+      "Qto_BeamBaseQuantities.NetVolume": 0.3393750012852312
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1o": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1o",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420134",
+    "type": "IfcBeam",
+    "tag": "420134",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 2604.99998286367,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 2604.99998286367,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000000162,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 2.3979999811500625,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 2.547999981150066,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 2.5479999811500638,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.16349999871477888,
+      "Qto_BeamBaseQuantities.NetVolume": 0.16349999871477838
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1y": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1y",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420136",
+    "type": "IfcBeam",
+    "tag": "420136",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 4950.000017136321,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 4950.000017136321,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.0750000000000016,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.977500018850011,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.127500018850014,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.127500018850013,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.3393750012852314,
+      "Qto_BeamBaseQuantities.NetVolume": 0.3393750012852317
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1_": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1_",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420138",
+    "type": "IfcBeam",
+    "tag": "420138",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 2604.99998286367,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 2604.99998286367,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000000168,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 2.425499981150066,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 2.5754999811500694,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 2.575499981150067,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.16537499871477898,
+      "Qto_BeamBaseQuantities.NetVolume": 0.165374998714779
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1a": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1a",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420144",
+    "type": "IfcBeam",
+    "tag": "420144",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000003,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000003,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000012812,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.720000000005511,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.870000000005767,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.870000000005688,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.3900000000006665,
+      "Qto_BeamBaseQuantities.NetVolume": 0.39000000000067914
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1c": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1c",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420146",
+    "type": "IfcBeam",
+    "tag": "420146",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000012827,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.720000000005541,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.870000000005797,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.87000000000569,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.3900000000006672,
+      "Qto_BeamBaseQuantities.NetVolume": 0.390000000000679
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1Y": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1Y",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420150",
+    "type": "IfcBeam",
+    "tag": "420150",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07499999999999928,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.665000000000152,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.8150000000001505,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.81500000000006,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.3862499999999963,
+      "Qto_BeamBaseQuantities.NetVolume": 0.3862500000000079
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1i": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1i",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420152",
+    "type": "IfcBeam",
+    "tag": "420152",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 4950.000017136321,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 4950.000017136321,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000000139,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 4.977500018850001,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.127500018850004,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.12750001885,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.33937500128523057,
+      "Qto_BeamBaseQuantities.NetVolume": 0.3393750012852295
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1k": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1k",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420154",
+    "type": "IfcBeam",
+    "tag": "420154",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 2604.99998286367,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 2604.99998286367,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000000137,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 2.4254999811500593,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 2.575499981150062,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 2.5754999811500614,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.16537499871477832,
+      "Qto_BeamBaseQuantities.NetVolume": 0.16537499871477826
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z0K": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z0K",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420160",
+    "type": "IfcBeam",
+    "tag": "420160",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000003,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000003,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 3.3956865861665992,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 6.7913731723331985,
+      "Qto_BeamBaseQuantities.NetVolume": 0.40113210966983925
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {},
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z0M": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z0M",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420162",
+    "type": "IfcBeam",
+    "tag": "420162",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07500000000012812,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.720000000005535,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.870000000005791,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 5.870000000005688,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.3900000000006664,
+      "Qto_BeamBaseQuantities.NetVolume": 0.390000000000679
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z0I": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z0I",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420166",
+    "type": "IfcBeam",
+    "tag": "420166",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 5570.000000000001,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 5570.000000000001,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 0.07499999999999929,
+      "Qto_BeamBaseQuantities.OuterSurfaceArea": 5.632000000000155,
+      "Qto_BeamBaseQuantities.GrossSurfaceArea": 5.782000000000154,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 6.039500000000061,
+      "Qto_BeamBaseQuantities.GrossVolume": 0.3839999999999968,
+      "Qto_BeamBaseQuantities.NetVolume": 0.38462500000000777
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 500mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z0S": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z0S",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420168",
+    "type": "IfcBeam",
+    "tag": "420168",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 4950.000017136321,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 4950.000017136321,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 3.507625012796543,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 7.015250025593086,
+      "Qto_BeamBaseQuantities.NetVolume": 0.3440875011596517
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {},
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z0U": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z0U",
+    "name": "M_Concrete-Rectangular Beam:250 x 500mm:420170",
+    "type": "IfcBeam",
+    "tag": "420170",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_BeamCommon.Slope": 0.0,
+      "Pset_BeamCommon.IsExternal": false,
+      "Pset_BeamCommon.LoadBearing": true,
+      "Pset_BeamCommon.Reference": "250 x 500mm",
+      "Pset_BeamCommon.Roll": 0.0,
+      "Pset_BeamCommon.Span": 2604.99998286367,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 500mm",
+      "Pset_ReinforcementBarPitchOfBeam.Reference": "250 x 500mm",
+      "Qto_BeamBaseQuantities.Length": 2604.99998286367,
+      "Qto_BeamBaseQuantities.CrossSectionArea": 1.7676249870920409,
+      "Qto_BeamBaseQuantities.NetSurfaceArea": 3.5352499741840817,
+      "Qto_BeamBaseQuantities.NetVolume": 0.1677674986274957
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {},
+    "relationships": {}
+  },
+  "1YMpECnoXAAgd3TsblgkPk": {
+    "global_id": "1YMpECnoXAAgd3TsblgkPk",
+    "name": "M_Concrete-Rectangular-Column:250 x 450 mm2:416794",
+    "type": "IfcColumn",
+    "tag": "416794",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 249.99999999999974,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.8899999999999988,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 2.3249999999999975,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.47249999999999925,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.47249999999999914,
+      "Pset_ColumnCommon.Reference": "250 x 450 mm2",
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 450 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 450 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 450 mm2"
+    },
+    "relationships": {}
+  },
+  "1YMpECnoXAAgd3TsblgkPe": {
+    "global_id": "1YMpECnoXAAgd3TsblgkPe",
+    "name": "M_Concrete-Rectangular-Column:250 x 450 mm2:416796",
+    "type": "IfcColumn",
+    "tag": "416796",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 250.00000000000003,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.8899999999999988,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 2.325,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.47249999999999975,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.47250000000000003,
+      "Pset_ColumnCommon.Reference": "250 x 450 mm2",
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 450 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 450 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 450 mm2"
+    },
+    "relationships": {}
+  },
+  "1YMpECnoXAAgd3TsblgkPM": {
+    "global_id": "1YMpECnoXAAgd3TsblgkPM",
+    "name": "M_Concrete-Rectangular-Column:250 x 400 mm:416802",
+    "type": "IfcColumn",
+    "tag": "416802",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 250.00000000000003,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.6800000000000002,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 2.3000000000000003,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.4200000000000001,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.4200000000000006,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "250 x 400 mm",
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 400 mm",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 400 mm"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 400 mm"
+    },
+    "relationships": {}
+  },
+  "1YMpECnoXAAgd3TsblgkPG": {
+    "global_id": "1YMpECnoXAAgd3TsblgkPG",
+    "name": "M_Concrete-Rectangular-Column:250 x 450 mm2:416804",
+    "type": "IfcColumn",
+    "tag": "416804",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 249.99999999999974,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.8899999999999988,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 2.3249999999999975,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.47249999999999925,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.47249999999999914,
+      "Pset_ColumnCommon.Reference": "250 x 450 mm2",
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 450 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 450 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 450 mm2"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrM6B": {
+    "global_id": "2e3KIcTBT93wdBtSLDrM6B",
+    "name": "M_Concrete-Rectangular-Column:300 x 400 mm2:418173",
+    "type": "IfcColumn",
+    "tag": "418173",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 300.0,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.6799999999999997,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 2.76,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.504,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.5039999999999999,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "300 x 400 mm2",
+      "Pset_EnvironmentalImpactIndicators.Reference": "300 x 400 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "300 x 400 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "300 x 400 mm2"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrM4N": {
+    "global_id": "2e3KIcTBT93wdBtSLDrM4N",
+    "name": "M_Concrete-Rectangular-Column:300 x 400 mm2:418273",
+    "type": "IfcColumn",
+    "tag": "418273",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 300.0,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.6800000000000002,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 2.76,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.5040000000000001,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.5040000000000001,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "300 x 400 mm2",
+      "Pset_EnvironmentalImpactIndicators.Reference": "300 x 400 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "300 x 400 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "300 x 400 mm2"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMNH": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMNH",
+    "name": "M_Concrete-Rectangular-Column:250 x 450 mm2:419111",
+    "type": "IfcColumn",
+    "tag": "419111",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 249.9999999999995,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.8900000000000001,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 2.324999999999995,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.47249999999999903,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.4725000000000004,
+      "Pset_ColumnCommon.Reference": "250 x 450 mm2",
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 450 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 450 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 450 mm2"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMNV": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMNV",
+    "name": "M_Concrete-Rectangular-Column:250 x 400 mm:419113",
+    "type": "IfcColumn",
+    "tag": "419113",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 249.9999999999995,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.6800000000000002,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 2.299999999999995,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.41999999999999915,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.4199999999999993,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "250 x 400 mm",
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 400 mm",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 400 mm"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 400 mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMN3": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMN3",
+    "name": "M_Concrete-Rectangular-Column:300 x 400 mm2:419125",
+    "type": "IfcColumn",
+    "tag": "419125",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 300.0,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.6800000000000002,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 2.76,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.5040000000000001,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.5040000000000009,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "300 x 400 mm2",
+      "Pset_EnvironmentalImpactIndicators.Reference": "300 x 400 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "300 x 400 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "300 x 400 mm2"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMMH": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMMH",
+    "name": "M_Concrete-Rectangular-Column:250 x 450 mm2:419175",
+    "type": "IfcColumn",
+    "tag": "419175",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 449.9999999999995,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.050999999906158,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 4.184999999999995,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.4729499999577705,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.4729499999577592,
+      "Pset_ColumnCommon.Reference": "250 x 450 mm2",
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 450 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 450 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 450 mm2"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMMV": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMMV",
+    "name": "M_Concrete-Rectangular-Column:250 x 400 mm:419177",
+    "type": "IfcColumn",
+    "tag": "419177",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 400.0,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.0509999999061594,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 3.7200000000000006,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.42039999996246374,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.4203999999624619,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "250 x 400 mm",
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 400 mm",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 400 mm"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 400 mm"
+    },
+    "relationships": {}
+  },
+  "2e3KIcTBT93wdBtSLDrMM5": {
+    "global_id": "2e3KIcTBT93wdBtSLDrMM5",
+    "name": "M_Concrete-Rectangular-Column:300 x 400 mm2:419187",
+    "type": "IfcColumn",
+    "tag": "419187",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 300.0000000000011,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.6799999999999997,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 2.7600000000000096,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.5040000000000018,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.5040000000000012,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "300 x 400 mm2",
+      "Pset_EnvironmentalImpactIndicators.Reference": "300 x 400 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "300 x 400 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "300 x 400 mm2"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z15": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z15",
+    "name": "M_Concrete-Rectangular-Column:250 x 450 mm2:420113",
+    "type": "IfcColumn",
+    "tag": "420113",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 249.99999999999974,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.1699999999999993,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 1.5249999999999981,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.29249999999999954,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.2924999999999995,
+      "Pset_ColumnCommon.Reference": "250 x 450 mm2",
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 450 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 450 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 450 mm2"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z17": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z17",
+    "name": "M_Concrete-Rectangular-Column:250 x 450 mm2:420115",
+    "type": "IfcColumn",
+    "tag": "420115",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 250.00000000000003,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.1699999999999995,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 1.525,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.29249999999999987,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.2924999999999999,
+      "Pset_ColumnCommon.Reference": "250 x 450 mm2",
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 450 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 450 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 450 mm2"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z11": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z11",
+    "name": "M_Concrete-Rectangular-Column:250 x 400 mm:420117",
+    "type": "IfcColumn",
+    "tag": "420117",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 250.00000000000003,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.04,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 1.5000000000000002,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.26000000000000006,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.2600000000000002,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "250 x 400 mm",
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 400 mm",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 400 mm"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 400 mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z13": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z13",
+    "name": "M_Concrete-Rectangular-Column:250 x 450 mm2:420119",
+    "type": "IfcColumn",
+    "tag": "420119",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 249.99999999999974,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.1699999999999993,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 1.5249999999999981,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.29249999999999954,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.2924999999999997,
+      "Pset_ColumnCommon.Reference": "250 x 450 mm2",
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 450 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 450 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 450 mm2"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1A": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1A",
+    "name": "M_Concrete-Rectangular-Column:300 x 400 mm2:420126",
+    "type": "IfcColumn",
+    "tag": "420126",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 300.0,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.0399999999999998,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 1.8,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.31199999999999994,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.31199999999999994,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "300 x 400 mm2",
+      "Pset_EnvironmentalImpactIndicators.Reference": "300 x 400 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "300 x 400 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "300 x 400 mm2"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1q": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1q",
+    "name": "M_Concrete-Rectangular-Column:300 x 400 mm2:420128",
+    "type": "IfcColumn",
+    "tag": "420128",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 300.0,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.04,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 1.8,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.312,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.3119999999999999,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "300 x 400 mm2",
+      "Pset_EnvironmentalImpactIndicators.Reference": "300 x 400 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "300 x 400 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "300 x 400 mm2"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1u": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1u",
+    "name": "M_Concrete-Rectangular-Column:250 x 450 mm2:420140",
+    "type": "IfcColumn",
+    "tag": "420140",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 249.9999999999995,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.1700000000000002,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 1.5249999999999966,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.2924999999999994,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.2925000000000003,
+      "Pset_ColumnCommon.Reference": "250 x 450 mm2",
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 450 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 450 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 450 mm2"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1w": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1w",
+    "name": "M_Concrete-Rectangular-Column:250 x 400 mm:420142",
+    "type": "IfcColumn",
+    "tag": "420142",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 249.9999999999995,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.04,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 1.499999999999997,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.25999999999999945,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.25999999999999934,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "250 x 400 mm",
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 400 mm",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 400 mm"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 400 mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1W": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1W",
+    "name": "M_Concrete-Rectangular-Column:300 x 400 mm2:420148",
+    "type": "IfcColumn",
+    "tag": "420148",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 300.0,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.04,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 1.8,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.312,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.3119999999999994,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "300 x 400 mm2",
+      "Pset_EnvironmentalImpactIndicators.Reference": "300 x 400 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "300 x 400 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "300 x 400 mm2"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1e": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1e",
+    "name": "M_Concrete-Rectangular-Column:250 x 450 mm2:420156",
+    "type": "IfcColumn",
+    "tag": "420156",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 449.9999999999995,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 0.650999999906159,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 2.7449999999999966,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.2929499999577712,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.29294999995776483,
+      "Pset_ColumnCommon.Reference": "250 x 450 mm2",
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 450 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 450 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 450 mm2"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z1g": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z1g",
+    "name": "M_Concrete-Rectangular-Column:250 x 400 mm:420158",
+    "type": "IfcColumn",
+    "tag": "420158",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 400.0,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 0.6509999999061598,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 2.440000000000001,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.26039999996246393,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.26039999996246443,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "250 x 400 mm",
+      "Pset_EnvironmentalImpactIndicators.Reference": "250 x 400 mm",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "250 x 400 mm"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "250 x 400 mm"
+    },
+    "relationships": {}
+  },
+  "0Bl0khqE5CRu4G24Ko5Z0G": {
+    "global_id": "0Bl0khqE5CRu4G24Ko5Z0G",
+    "name": "M_Concrete-Rectangular-Column:300 x 400 mm2:420164",
+    "type": "IfcColumn",
+    "tag": "420164",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Qto_ColumnBaseQuantities.Length": 300.0000000000011,
+      "Qto_ColumnBaseQuantities.CrossSectionArea": 1.0399999999999998,
+      "Qto_ColumnBaseQuantities.OuterSurfaceArea": 1.8000000000000065,
+      "Qto_ColumnBaseQuantities.GrossVolume": 0.31200000000000105,
+      "Qto_ColumnBaseQuantities.NetVolume": 0.31199999999999994,
+      "Pset_ColumnCommon.Slope": 0.0,
+      "Pset_ColumnCommon.IsExternal": false,
+      "Pset_ColumnCommon.LoadBearing": true,
+      "Pset_ColumnCommon.Reference": "300 x 400 mm2",
+      "Pset_EnvironmentalImpactIndicators.Reference": "300 x 400 mm2",
+      "Pset_ReinforcementBarPitchOfColumn.Reference": "300 x 400 mm2"
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "300 x 400 mm2"
+    },
+    "relationships": {}
+  },
+  "3aTnDTRUf3aPpeHNVYb1bz": {
+    "global_id": "3aTnDTRUf3aPpeHNVYb1bz",
+    "name": "Floor:Generic 200mm:422017",
+    "type": "IfcSlab",
+    "tag": "422017",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRms",
+      "storey_name": "Level 1",
+      "storey_elevation": 2800.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "Generic 200mm",
+      "Pset_ReinforcementBarPitchOfSlab.Reference": "Generic 200mm",
+      "Pset_SlabCommon.IsExternal": false,
+      "Pset_SlabCommon.LoadBearing": true,
+      "Pset_SlabCommon.Reference": "Generic 200mm",
+      "Pset_SlabCommon.PitchAngle": 0.0,
+      "Qto_SlabBaseQuantities.Depth": 200.0,
+      "Qto_SlabBaseQuantities.Perimeter": 89511.30807910221,
+      "Qto_SlabBaseQuantities.GrossArea": 148.20528743463882,
+      "Qto_SlabBaseQuantities.NetArea": 133.7168954346389,
+      "Qto_SlabBaseQuantities.GrossVolume": 29.641057486927767,
+      "Qto_SlabBaseQuantities.NetVolume": 26.743379086927778
+    },
+    "material_info": {
+      "Default Floor": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {},
+    "relationships": {}
+  },
+  "3aTnDTRUf3aPpeHNVYb11x": {
+    "global_id": "3aTnDTRUf3aPpeHNVYb11x",
+    "name": "Floor:Generic 200mm:424327",
+    "type": "IfcSlab",
+    "tag": "424327",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm$",
+      "storey_name": "Level 2",
+      "storey_elevation": 5600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "Generic 200mm",
+      "Pset_ReinforcementBarPitchOfSlab.Reference": "Generic 200mm",
+      "Pset_SlabCommon.IsExternal": false,
+      "Pset_SlabCommon.LoadBearing": true,
+      "Pset_SlabCommon.Reference": "Generic 200mm",
+      "Pset_SlabCommon.PitchAngle": 0.0,
+      "Qto_SlabBaseQuantities.Depth": 200.0,
+      "Qto_SlabBaseQuantities.Perimeter": 57758.10807910223,
+      "Qto_SlabBaseQuantities.GrossArea": 148.20528743463882,
+      "Qto_SlabBaseQuantities.NetArea": 148.20528743463888,
+      "Qto_SlabBaseQuantities.GrossVolume": 29.641057486927767,
+      "Qto_SlabBaseQuantities.NetVolume": 29.641057486927767
+    },
+    "material_info": {
+      "Default Floor": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {},
+    "relationships": {}
+  },
+  "0Gix$5zP91PObkzryQgbec": {
+    "global_id": "0Gix$5zP91PObkzryQgbec",
+    "name": "M_Footing-Rectangular:1500x1500:419712",
+    "type": "IfcFooting",
+    "tag": "419712",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "1500x1500",
+      "Pset_FootingCommon.Reference": "1500x1500",
+      "Pset_ReinforcementBarCountOfIndependentFooting.Reference": "1500x1500",
+      "Pset_ReinforcementBarPitchOfContinuousFooting.Reference": "1500x1500",
+      "Qto_FootingBaseQuantities.Length": 1500.0,
+      "Qto_FootingBaseQuantities.Width": 1500.0,
+      "Qto_FootingBaseQuantities.Height": 1499.9999999999998,
+      "Qto_FootingBaseQuantities.CrossSectionArea": 2.2499999999999996,
+      "Qto_FootingBaseQuantities.OuterSurfaceArea": 2.6999999999999997,
+      "Qto_FootingBaseQuantities.GrossSurfaceArea": 7.199999999999999,
+      "Qto_FootingBaseQuantities.GrossVolume": 1.0124999999999997,
+      "Qto_FootingBaseQuantities.NetVolume": 1.0124999999999997
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "1500x1500"
+    },
+    "relationships": {}
+  },
+  "0Gix$5zP91PObkzryQgbeZ": {
+    "global_id": "0Gix$5zP91PObkzryQgbeZ",
+    "name": "M_Footing-Rectangular:1500x1500:419717",
+    "type": "IfcFooting",
+    "tag": "419717",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "1500x1500",
+      "Pset_FootingCommon.Reference": "1500x1500",
+      "Pset_ReinforcementBarCountOfIndependentFooting.Reference": "1500x1500",
+      "Pset_ReinforcementBarPitchOfContinuousFooting.Reference": "1500x1500",
+      "Qto_FootingBaseQuantities.Length": 1500.0,
+      "Qto_FootingBaseQuantities.Width": 1500.0,
+      "Qto_FootingBaseQuantities.Height": 1499.9999999999998,
+      "Qto_FootingBaseQuantities.CrossSectionArea": 2.2499999999999996,
+      "Qto_FootingBaseQuantities.OuterSurfaceArea": 2.6999999999999997,
+      "Qto_FootingBaseQuantities.GrossSurfaceArea": 7.199999999999999,
+      "Qto_FootingBaseQuantities.GrossVolume": 1.0124999999999997,
+      "Qto_FootingBaseQuantities.NetVolume": 1.0124999999999997
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "1500x1500"
+    },
+    "relationships": {}
+  },
+  "0Gix$5zP91PObkzryQgbei": {
+    "global_id": "0Gix$5zP91PObkzryQgbei",
+    "name": "M_Footing-Rectangular:1500x1500:419722",
+    "type": "IfcFooting",
+    "tag": "419722",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "1500x1500",
+      "Pset_FootingCommon.Reference": "1500x1500",
+      "Pset_ReinforcementBarCountOfIndependentFooting.Reference": "1500x1500",
+      "Pset_ReinforcementBarPitchOfContinuousFooting.Reference": "1500x1500",
+      "Qto_FootingBaseQuantities.Length": 1500.0,
+      "Qto_FootingBaseQuantities.Width": 1500.0,
+      "Qto_FootingBaseQuantities.Height": 1499.9999999999998,
+      "Qto_FootingBaseQuantities.CrossSectionArea": 2.2499999999999996,
+      "Qto_FootingBaseQuantities.OuterSurfaceArea": 2.6999999999999997,
+      "Qto_FootingBaseQuantities.GrossSurfaceArea": 7.199999999999999,
+      "Qto_FootingBaseQuantities.GrossVolume": 1.0124999999999997,
+      "Qto_FootingBaseQuantities.NetVolume": 1.0124999999999997
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "1500x1500"
+    },
+    "relationships": {}
+  },
+  "0Gix$5zP91PObkzryQgbef": {
+    "global_id": "0Gix$5zP91PObkzryQgbef",
+    "name": "M_Footing-Rectangular:1500x1500:419727",
+    "type": "IfcFooting",
+    "tag": "419727",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "1500x1500",
+      "Pset_FootingCommon.Reference": "1500x1500",
+      "Pset_ReinforcementBarCountOfIndependentFooting.Reference": "1500x1500",
+      "Pset_ReinforcementBarPitchOfContinuousFooting.Reference": "1500x1500",
+      "Qto_FootingBaseQuantities.Length": 1500.0,
+      "Qto_FootingBaseQuantities.Width": 1500.0,
+      "Qto_FootingBaseQuantities.Height": 1499.9999999999998,
+      "Qto_FootingBaseQuantities.CrossSectionArea": 2.2499999999999996,
+      "Qto_FootingBaseQuantities.OuterSurfaceArea": 2.6999999999999997,
+      "Qto_FootingBaseQuantities.GrossSurfaceArea": 7.199999999999999,
+      "Qto_FootingBaseQuantities.GrossVolume": 1.0124999999999997,
+      "Qto_FootingBaseQuantities.NetVolume": 1.0124999999999997
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "1500x1500"
+    },
+    "relationships": {}
+  },
+  "0Gix$5zP91PObkzryQgbeo": {
+    "global_id": "0Gix$5zP91PObkzryQgbeo",
+    "name": "M_Footing-Rectangular:1500x1500:419732",
+    "type": "IfcFooting",
+    "tag": "419732",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "1500x1500",
+      "Pset_FootingCommon.Reference": "1500x1500",
+      "Pset_ReinforcementBarCountOfIndependentFooting.Reference": "1500x1500",
+      "Pset_ReinforcementBarPitchOfContinuousFooting.Reference": "1500x1500",
+      "Qto_FootingBaseQuantities.Length": 1500.0,
+      "Qto_FootingBaseQuantities.Width": 1500.0,
+      "Qto_FootingBaseQuantities.Height": 1499.9999999999998,
+      "Qto_FootingBaseQuantities.CrossSectionArea": 2.2499999999999996,
+      "Qto_FootingBaseQuantities.OuterSurfaceArea": 2.6999999999999997,
+      "Qto_FootingBaseQuantities.GrossSurfaceArea": 7.199999999999999,
+      "Qto_FootingBaseQuantities.GrossVolume": 1.0124999999999997,
+      "Qto_FootingBaseQuantities.NetVolume": 1.0124999999999997
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "1500x1500"
+    },
+    "relationships": {}
+  },
+  "0Gix$5zP91PObkzryQgbe$": {
+    "global_id": "0Gix$5zP91PObkzryQgbe$",
+    "name": "M_Footing-Rectangular:1500x1500:419737",
+    "type": "IfcFooting",
+    "tag": "419737",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "1500x1500",
+      "Pset_FootingCommon.Reference": "1500x1500",
+      "Pset_ReinforcementBarCountOfIndependentFooting.Reference": "1500x1500",
+      "Pset_ReinforcementBarPitchOfContinuousFooting.Reference": "1500x1500",
+      "Qto_FootingBaseQuantities.Length": 1500.0,
+      "Qto_FootingBaseQuantities.Width": 1500.0,
+      "Qto_FootingBaseQuantities.Height": 1499.9999999999998,
+      "Qto_FootingBaseQuantities.CrossSectionArea": 2.2499999999999996,
+      "Qto_FootingBaseQuantities.OuterSurfaceArea": 2.6999999999999997,
+      "Qto_FootingBaseQuantities.GrossSurfaceArea": 7.199999999999999,
+      "Qto_FootingBaseQuantities.GrossVolume": 1.0124999999999997,
+      "Qto_FootingBaseQuantities.NetVolume": 1.0124999999999997
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "1500x1500"
+    },
+    "relationships": {}
+  },
+  "0Gix$5zP91PObkzryQgbeu": {
+    "global_id": "0Gix$5zP91PObkzryQgbeu",
+    "name": "M_Footing-Rectangular:1500x1500:419742",
+    "type": "IfcFooting",
+    "tag": "419742",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "1500x1500",
+      "Pset_FootingCommon.Reference": "1500x1500",
+      "Pset_ReinforcementBarCountOfIndependentFooting.Reference": "1500x1500",
+      "Pset_ReinforcementBarPitchOfContinuousFooting.Reference": "1500x1500",
+      "Qto_FootingBaseQuantities.Length": 1500.0,
+      "Qto_FootingBaseQuantities.Width": 1500.0,
+      "Qto_FootingBaseQuantities.Height": 1499.9999999999998,
+      "Qto_FootingBaseQuantities.CrossSectionArea": 2.2499999999999996,
+      "Qto_FootingBaseQuantities.OuterSurfaceArea": 2.6999999999999997,
+      "Qto_FootingBaseQuantities.GrossSurfaceArea": 7.199999999999999,
+      "Qto_FootingBaseQuantities.GrossVolume": 1.0124999999999997,
+      "Qto_FootingBaseQuantities.NetVolume": 1.0124999999999995
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "1500x1500"
+    },
+    "relationships": {}
+  },
+  "0Gix$5zP91PObkzryQgbe5": {
+    "global_id": "0Gix$5zP91PObkzryQgbe5",
+    "name": "M_Footing-Rectangular:1500x1500:419747",
+    "type": "IfcFooting",
+    "tag": "419747",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "1500x1500",
+      "Pset_FootingCommon.Reference": "1500x1500",
+      "Pset_ReinforcementBarCountOfIndependentFooting.Reference": "1500x1500",
+      "Pset_ReinforcementBarPitchOfContinuousFooting.Reference": "1500x1500",
+      "Qto_FootingBaseQuantities.Length": 1500.0,
+      "Qto_FootingBaseQuantities.Width": 1500.0,
+      "Qto_FootingBaseQuantities.Height": 1499.9999999999998,
+      "Qto_FootingBaseQuantities.CrossSectionArea": 2.2499999999999996,
+      "Qto_FootingBaseQuantities.OuterSurfaceArea": 2.6999999999999997,
+      "Qto_FootingBaseQuantities.GrossSurfaceArea": 7.199999999999999,
+      "Qto_FootingBaseQuantities.GrossVolume": 1.0124999999999997,
+      "Qto_FootingBaseQuantities.NetVolume": 1.0124999999999995
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "1500x1500"
+    },
+    "relationships": {}
+  },
+  "0Gix$5zP91PObkzryQgbeE": {
+    "global_id": "0Gix$5zP91PObkzryQgbeE",
+    "name": "M_Footing-Rectangular:1500x1500:419752",
+    "type": "IfcFooting",
+    "tag": "419752",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "1500x1500",
+      "Pset_FootingCommon.Reference": "1500x1500",
+      "Pset_ReinforcementBarCountOfIndependentFooting.Reference": "1500x1500",
+      "Pset_ReinforcementBarPitchOfContinuousFooting.Reference": "1500x1500",
+      "Qto_FootingBaseQuantities.Length": 1500.0,
+      "Qto_FootingBaseQuantities.Width": 1500.0,
+      "Qto_FootingBaseQuantities.Height": 1499.9999999999998,
+      "Qto_FootingBaseQuantities.CrossSectionArea": 2.2499999999999996,
+      "Qto_FootingBaseQuantities.OuterSurfaceArea": 2.6999999999999997,
+      "Qto_FootingBaseQuantities.GrossSurfaceArea": 7.199999999999999,
+      "Qto_FootingBaseQuantities.GrossVolume": 1.0124999999999997,
+      "Qto_FootingBaseQuantities.NetVolume": 1.0124999999999997
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "1500x1500"
+    },
+    "relationships": {}
+  },
+  "0Gix$5zP91PObkzryQgbeB": {
+    "global_id": "0Gix$5zP91PObkzryQgbeB",
+    "name": "M_Footing-Rectangular:1500x1500:419757",
+    "type": "IfcFooting",
+    "tag": "419757",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "1500x1500",
+      "Pset_FootingCommon.Reference": "1500x1500",
+      "Pset_ReinforcementBarCountOfIndependentFooting.Reference": "1500x1500",
+      "Pset_ReinforcementBarPitchOfContinuousFooting.Reference": "1500x1500",
+      "Qto_FootingBaseQuantities.Length": 1500.0,
+      "Qto_FootingBaseQuantities.Width": 1500.0,
+      "Qto_FootingBaseQuantities.Height": 1499.9999999999998,
+      "Qto_FootingBaseQuantities.CrossSectionArea": 2.2499999999999996,
+      "Qto_FootingBaseQuantities.OuterSurfaceArea": 2.6999999999999997,
+      "Qto_FootingBaseQuantities.GrossSurfaceArea": 7.199999999999999,
+      "Qto_FootingBaseQuantities.GrossVolume": 1.0124999999999997,
+      "Qto_FootingBaseQuantities.NetVolume": 1.0124999999999997
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "1500x1500"
+    },
+    "relationships": {}
+  },
+  "0Gix$5zP91PObkzryQgbeK": {
+    "global_id": "0Gix$5zP91PObkzryQgbeK",
+    "name": "M_Footing-Rectangular:1500x1500:419762",
+    "type": "IfcFooting",
+    "tag": "419762",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "1500x1500",
+      "Pset_FootingCommon.Reference": "1500x1500",
+      "Pset_ReinforcementBarCountOfIndependentFooting.Reference": "1500x1500",
+      "Pset_ReinforcementBarPitchOfContinuousFooting.Reference": "1500x1500",
+      "Qto_FootingBaseQuantities.Length": 1500.0,
+      "Qto_FootingBaseQuantities.Width": 1500.0,
+      "Qto_FootingBaseQuantities.Height": 1499.9999999999998,
+      "Qto_FootingBaseQuantities.CrossSectionArea": 2.2499999999999996,
+      "Qto_FootingBaseQuantities.OuterSurfaceArea": 2.6999999999999997,
+      "Qto_FootingBaseQuantities.GrossSurfaceArea": 7.199999999999999,
+      "Qto_FootingBaseQuantities.GrossVolume": 1.0124999999999997,
+      "Qto_FootingBaseQuantities.NetVolume": 1.0124999999999997
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "1500x1500"
+    },
+    "relationships": {}
+  },
+  "0Gix$5zP91PObkzryQgbeH": {
+    "global_id": "0Gix$5zP91PObkzryQgbeH",
+    "name": "M_Footing-Rectangular:1500x1500:419767",
+    "type": "IfcFooting",
+    "tag": "419767",
+    "spatial_info": {
+      "storey_id": "1cURdUbjDEJhIrZKAgxRm_",
+      "storey_name": "Level -1",
+      "storey_elevation": -1600.0,
+      "building_id": "1cURdUbjDEJhIrZK9L51$N",
+      "building_name": "",
+      "site_id": "1cURdUbjDEJhIrZK9L51$K",
+      "site_name": "Default",
+      "project_id": "1cURdUbjDEJhIrZK9L51$M",
+      "project_name": "Project Number"
+    },
+    "properties": {
+      "Pset_EnvironmentalImpactIndicators.Reference": "1500x1500",
+      "Pset_FootingCommon.Reference": "1500x1500",
+      "Pset_ReinforcementBarCountOfIndependentFooting.Reference": "1500x1500",
+      "Pset_ReinforcementBarPitchOfContinuousFooting.Reference": "1500x1500",
+      "Qto_FootingBaseQuantities.Length": 1500.0,
+      "Qto_FootingBaseQuantities.Width": 1500.0,
+      "Qto_FootingBaseQuantities.Height": 1499.9999999999998,
+      "Qto_FootingBaseQuantities.CrossSectionArea": 2.2499999999999996,
+      "Qto_FootingBaseQuantities.OuterSurfaceArea": 2.6999999999999997,
+      "Qto_FootingBaseQuantities.GrossSurfaceArea": 7.199999999999999,
+      "Qto_FootingBaseQuantities.GrossVolume": 1.0124999999999997,
+      "Qto_FootingBaseQuantities.NetVolume": 1.0124999999999997
+    },
+    "material_info": {
+      "Concrete, Cast-in-Place gray": {
+        "type": "material",
+        "properties": {}
+      }
+    },
+    "profile_info": {
+      "type": "ArbitraryClosed",
+      "name": "1500x1500"
+    },
+    "relationships": {}
+  }
+}
