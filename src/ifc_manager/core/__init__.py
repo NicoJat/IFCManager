@@ -1,32 +1,20 @@
 """
-IFC-OpenSeesPy Linker - Convert BIM (IFC) models to structural analysis models for OpenSeesPy.
-
-This package provides tools to parse IFC files, extract structural elements,
-convert them to OpenSeesPy models, and visualize the results.
+IFCManager - Analyse IFC files simplifying IFCOpenshell
 """
 
 __version__ = "0.1.0"
 __author__ = "Your Name"
 
-# src/ifc_openseespy_linker/core/__init__.py
 from .ifc_parser import IFCParser
 from .visualization import ModelVisualizer
 
 # Convenience class that integrates all components
-class IFCtoOpenSeesConverter:
+class IFCManager:
     """
     Main converter class that integrates parsing, conversion, and visualization.
     
     This class serves as the primary interface for the library, combining the
-    functionality of the IFCParser, OpenSeesConverter, and ModelVisualizer.
-    
-    Example:
-        >>> converter = IFCtoOpenSeesConverter("model.ifc")
-        >>> converter.load_ifc()
-        >>> converter.extract_structural_elements()
-        >>> converter.create_opensees_model()
-        >>> converter.run_analysis()
-        >>> converter.visualize_results()
+    functionality of the IFCParser, and ModelVisualizer.
     """
     
     def __init__(self, ifc_file_path=None):
@@ -58,14 +46,7 @@ class IFCtoOpenSeesConverter:
         self.parser.extract_geometry()
         
         return self.structural_elements
-    
-    def run_analysis(self, analysis_type="static"):
-        """Run structural analysis on the created OpenSees model."""
-        if not self.converter:
-            raise ValueError("No OpenSees model created. Call create_opensees_model() first.")
-        
-        self.analysis_results = self.converter.run_analysis(analysis_type)
-        return self.analysis_results
+
     
     def visualize_model(self):
         """Visualize the 3D model from IFC data."""
@@ -74,14 +55,8 @@ class IFCtoOpenSeesConverter:
         
         return self.visualizer.visualize_ifc_model(self.structural_elements)
     
-    def visualize_results(self, result_type="displacements", scale_factor=10):
-        """Visualize analysis results."""
-        if not self.analysis_results:
-            raise ValueError("No analysis results available. Call run_analysis() first.")
-        
         return self.visualizer.visualize_results(
             self.structural_elements, 
-            self.analysis_results, 
             result_type, 
             scale_factor
         )

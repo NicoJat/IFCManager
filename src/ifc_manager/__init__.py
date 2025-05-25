@@ -1,4 +1,3 @@
-# src/ifc_openseespy_linker/__init__.py
 """
 IFC-OpenSeesPy Linker - Convert BIM (IFC) models to structural analysis models for OpenSeesPy.
 """
