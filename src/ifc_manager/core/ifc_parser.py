@@ -446,46 +446,148 @@ class IFCParser:
     
     
     def calculate_element_properties(self):
+        """Calcula propiedades geométricas de los elementos."""
         for element_id, element_data in self.structural_elements.items():
-            if 'geometry' in element_data:
-                geom = element_data['geometry']
-                if geom['type'] == 'esh':
-                    # Calcula el volumen y área del elemento
-                    vertices = np.array(geom['vertices'])
-                    triangles = np.array(geom['triangles'])
+            if 'geometry' not in element_data:
+                continue
+                
+            geom = element_data['geometry']
+            
+            # Elementos tipo malla (slabs, walls)
+            if geom['type'] == 'mesh':  # CORREGIDO: era 'esh'
+                vertices = np.array(geom['vertices'])
+                triangles = np.array(geom['triangles'])
+                
+                if len(vertices) > 0 and len(triangles) > 0:
                     volume = self.calculate_mesh_volume(vertices, triangles)
                     area = self.calculate_mesh_area(vertices, triangles)
                     element_data['volume'] = volume
                     element_data['area'] = area
-                elif geom['type'] == 'line':
-                    # Calcula el volumen y área del elemento lineal
-                    start = geom['start']
-                    end = geom['end']
-                    length = np.linalg.norm(np.array(end) - np.array(start))
+                    
+            # Elementos lineales (beams, columns)
+            elif geom['type'] == 'line':
+                start = np.array(geom['start'])
+                end = np.array(geom['end'])
+                length = np.linalg.norm(end - start)
+                
+                if 'profile' in element_data and element_data['profile']:
                     area = self.calculate_line_area(length, element_data['profile'])
                     volume = self.calculate_line_volume(length, element_data['profile'])
                     element_data['volume'] = volume
                     element_data['area'] = area
+                    element_data['length'] = length
+
+    # 2. IMPLEMENTACIÓN: Métodos de cálculo de geometría
+    # Agregar estos métodos al final de la clase IFCParser:
 
     def calculate_mesh_volume(self, vertices, triangles):
-        # Implementa el cálculo del volumen de un mesh
-        #...
-        pass
+        """Calcula volumen aproximado usando convex hull."""
+        try:
+            if len(vertices) < 4:  # Mínimo para un tetrahedro
+                return 0.0
+            
+            # Método simplificado: suma de volúmenes de tetrahedros desde centroide
+            centroid = np.mean(vertices, axis=0)
+            volume = 0.0
+            
+            for triangle in triangles:
+                if max(triangle) < len(vertices):
+                    v1, v2, v3 = vertices[triangle[0]], vertices[triangle[1]], vertices[triangle[2]]
+                    # Volumen del tetrahedro formado por el triángulo y el centroide
+                    vol = abs(np.dot(v1 - centroid, np.cross(v2 - centroid, v3 - centroid))) / 6.0
+                    volume += vol
+            
+            return volume
+        except Exception as e:
+            logger.warning(f"Error calculating mesh volume: {e}")
+            return 0.0
 
     def calculate_mesh_area(self, vertices, triangles):
-        # Implementa el cálculo del área de un mesh
-        #...
-        pass
+        """Calcula área superficial del mesh."""
+        try:
+            total_area = 0.0
+            
+            for triangle in triangles:
+                if max(triangle) < len(vertices):
+                    v1, v2, v3 = vertices[triangle[0]], vertices[triangle[1]], vertices[triangle[2]]
+                    # Área del triángulo usando producto cruzado
+                    area = 0.5 * np.linalg.norm(np.cross(v2 - v1, v3 - v1))
+                    total_area += area
+            
+            return total_area
+        except Exception as e:
+            logger.warning(f"Error calculating mesh area: {e}")
+            return 0.0
 
     def calculate_line_area(self, length, profile):
-        # Implementa el cálculo del área de un elemento lineal
-        #...
-        pass
+        """Calcula área de sección transversal de elemento lineal."""
+        try:
+            if not profile:
+                return 0.0
+            
+            shape = profile.get('shape', '')
+            
+            if shape == 'rectangular':
+                height = profile.get('height', 0)
+                width = profile.get('width', 0)
+                return height * width
+                
+            elif shape == 'circular':
+                radius = profile.get('radius', 0)
+                return math.pi * radius * radius
+                
+            elif shape == 'I-shape':
+                height = profile.get('height', 0)
+                width = profile.get('width', 0)
+                web_thickness = profile.get('web_thickness', 0)
+                flange_thickness = profile.get('flange_thickness', 0)
+                
+                # Área aproximada de perfil I
+                flange_area = 2 * width * flange_thickness
+                web_area = (height - 2 * flange_thickness) * web_thickness
+                return flange_area + web_area
+            
+            # Valores por defecto si no se puede calcular
+            return profile.get('area', 0)
+            
+        except Exception as e:
+            logger.warning(f"Error calculating line area: {e}")
+            return 0.0
 
     def calculate_line_volume(self, length, profile):
-        # Implementa el cálculo del volumen de un elemento lineal
-        #...
-        pass
+        """Calcula volumen de elemento lineal."""
+        try:
+            area = self.calculate_line_area(length, profile)  # Reutilizar cálculo de área
+            return area * length
+        except Exception as e:
+            logger.warning(f"Error calculating line volume: {e}")
+            return 0.0
+
+    # 3. CORRECCIÓN: Método count_properties_by_material
+    # Reemplazar el método completo:
+
+    def count_properties_by_material(self):
+        """Agrupa propiedades por material."""
+        material_properties = {}
+        
+        for element_id, element_data in self.structural_elements.items():
+            if 'material' in element_data and element_data['material']:  # CORREGIDO: era 'aterial'
+                # Obtener primer material (simplificado)
+                material_name = list(element_data['material'].keys())[0]
+                
+                if material_name not in material_properties:
+                    material_properties[material_name] = {
+                        'volume': 0, 
+                        'area': 0, 
+                        'count': 0
+                    }
+                
+                material_properties[material_name]['volume'] += element_data.get('volume', 0)
+                material_properties[material_name]['area'] += element_data.get('area', 0)
+                material_properties[material_name]['count'] += 1
+        
+        return material_properties
+    
 
     def count_properties_by_material(self):
         material_properties = {}
