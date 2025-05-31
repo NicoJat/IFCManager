@@ -592,7 +592,7 @@ class IFCParser:
     def count_properties_by_material(self):
         material_properties = {}
         for element_id, element_data in self.structural_elements.items():
-            if 'aterial' in element_data:
+            if 'material' in element_data:
                 material_name = list(element_data['material'].keys())[0]
                 if material_name not in material_properties:
                     material_properties[material_name] = {'volume': 0, 'area': 0}

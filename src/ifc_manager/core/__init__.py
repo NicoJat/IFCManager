@@ -5,38 +5,9 @@ IFCManager - Analyse IFC files simplifying IFCOpenshell
 __version__ = "0.1.0"
 __author__ = "Your Name"
 
-# Importaciones básicas necesarias
-import logging
-import os
-
-# Importaciones de terceros requeridas
-try:
-    import numpy as np
-    import plotly.graph_objects as go
-    import ifcopenshell
-    import ifcopenshell.geom
-    import ifcopenshell.util.element as Element
-    import ifcopenshell.util.pset as Pset
-    import ifcopenshell.util.placement as Placement
-except ImportError as e:
-    raise ImportError(f"Required dependency not found: {e}. "
-                     "Install with: pip install ifcopenshell numpy plotly")
-
-# Configurar logging para el módulo
-logger = logging.getLogger(__name__)
-if not logger.handlers:
-    handler = logging.StreamHandler()
-    formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-    handler.setFormatter(formatter)
-    logger.addHandler(handler)
-    logger.setLevel(logging.INFO)
-
-# Importaciones locales
 from .ifc_parser import IFCParser
 from .visualization import ModelVisualizer
 
-# Exportar clases principales
-__all__ = ['IFCManager', 'IFCParser', 'ModelVisualizer']
 
 # Convenience class that integrates all components
 class IFCManager:
